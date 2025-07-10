@@ -1,3 +1,5 @@
+#### HUN
+
 # Elérhető Projektek:
 
 
@@ -28,7 +30,7 @@
   - Python
   - Rugalmas séma-definíció szintetikus adatokhoz
   - Exportálás különböző fájlformátumokba
-  - Alapszintű Oracle SQL integráció adatimport támogatáshoz (kérésre megtekinthető)
+  - Alapszintű Oracle SQL integráció adatimport támogatáshoz **(kérésre megtekinthető)**
 - **Főbb funkciók:**
   - Testreszabható rekordszám és meződefiníció
   - Valósághű tesztelési környezet létrehozása adatfolyamatokhoz és BI eszközökhöz
@@ -45,8 +47,71 @@
   - Interaktív szűrők, drill-through funkciók, dinamikus vizualizációk
   - Adatmodell kialakítása és átalakítás Power BI környezetben
 - **Főbb KPI-k és elemzések:**
-  - Játékos statisztikák (yardok, touchdown-ok, interception-ök stb.)
+  - Játékos statisztikák
   - Csapatok összehasonlítása, szezonális trendek
   - Kiemelkedő teljesítményű játékosok azonosítása
 - **Eredmény:**
   - Egy átlátható, vizuálisan erős dashboard, amely támogatja az adatalapú elemzést és a sportanalitikai döntéseket.
+
+### 3.1 Demo videó
+🎥 [Rövid bemutató videó a Power BI dashboardról](https://drive.google.com/file/d/1FXuihi47ZEg7eTA1DkvfFqqzIPfTa44S/view?usp=sharing) 
+
+---
+---
+---
+
+#### ENG
+
+
+# Available Projects
+
+### 1. Large-Scale Data Preprocessing and Analysis
+
+- **Description:** Data preprocessing and analysis on a dataset about U.S. higher education institutions.
+- **Goal:** To observe which factors influence students' future income, understand how institutions can be grouped based on specific characteristics, and how these relate to institution types.
+- **Technologies and methods:**
+  - Python
+  - Data cleaning
+  - Exploratory data analysis and feature exploration
+  - Application of clustering techniques
+  - Data visualization to present key insights
+- **Results:**
+  - Identified institutional attributes most strongly associated with graduates' earnings.
+  - Successfully grouped universities into distinct profiles based on key features.
+- **Dataset source:** Public dataset on U.S. higher education institutions.
+
+---
+
+### 2. Multi-Format Data Generator and Handler Tool
+
+- **Description:** Development of a Python-based tool using the Faker API to generate synthetic relational data and export it in multiple formats (CSV, JSON, XLSX).
+- **Goal:** To create large, realistic test datasets for database and data pipeline testing.
+- **Technologies and methods:**
+  - Python
+  - Flexible schema definition for synthetic data
+  - Export to various file formats
+  - Basic Oracle SQL integration for data import support (**available upon request**)
+- **Key features:**
+  - Customizable number of records and field definitions
+  - Realistic testing environment for data pipelines and BI tools
+
+---
+
+### 3. Interactive Business Dashboard Development (NFL Analytics)
+
+- **Description:** Design and development of an interactive business dashboard to visualize NFL (American football) data using Power BI.
+- **Goal:** To provide detailed insights into player and team performance, highlight key metrics, and enable interactive exploration of NFL statistics.
+- **Technologies and methods:**
+  - Power BI
+  - Development of DAX formulas and measures
+  - Interactive slicers, drill-through features, dynamic visualizations
+  - Data modeling and transformation within Power BI
+- **Key KPIs and analyses:**
+  - Player statistics
+  - Team comparisons and seasonal trends
+  - Identifying top-performing players
+- **Outcome:**
+  - A clear, visually strong dashboard supporting data-driven analysis and sports analytics decisions.
+
+### 3.1 Demo video
+🎥 [Short demo video of the Power BI dashboard](https://drive.google.com/file/d/1FXuihi47ZEg7eTA1DkvfFqqzIPfTa44S/view?usp=sharing)
